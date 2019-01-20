@@ -1,0 +1,10 @@
+C:\Users\opriy\Desktop\DotNet\EmployeeStroage\EmployeeStroage\bin\Debug\EmployeeStroage.exe.config
+C:\Users\opriy\Desktop\DotNet\EmployeeStroage\EmployeeStroage\bin\Debug\EmployeeStroage.exe
+C:\Users\opriy\Desktop\DotNet\EmployeeStroage\EmployeeStroage\bin\Debug\EmployeeStroage.pdb
+C:\Users\opriy\Desktop\DotNet\EmployeeStroage\EmployeeStroage\obj\Debug\EmployeeStroage.csprojAssemblyReference.cache
+C:\Users\opriy\Desktop\DotNet\EmployeeStroage\EmployeeStroage\obj\Debug\EmployeeStroage.EmployeeInformationForm.resources
+C:\Users\opriy\Desktop\DotNet\EmployeeStroage\EmployeeStroage\obj\Debug\EmployeeStroage.Properties.Resources.resources
+C:\Users\opriy\Desktop\DotNet\EmployeeStroage\EmployeeStroage\obj\Debug\EmployeeStroage.csproj.GenerateResource.cache
+C:\Users\opriy\Desktop\DotNet\EmployeeStroage\EmployeeStroage\obj\Debug\EmployeeStroage.csproj.CoreCompileInputs.cache
+C:\Users\opriy\Desktop\DotNet\EmployeeStroage\EmployeeStroage\obj\Debug\EmployeeStroage.exe
+C:\Users\opriy\Desktop\DotNet\EmployeeStroage\EmployeeStroage\obj\Debug\EmployeeStroage.pdb

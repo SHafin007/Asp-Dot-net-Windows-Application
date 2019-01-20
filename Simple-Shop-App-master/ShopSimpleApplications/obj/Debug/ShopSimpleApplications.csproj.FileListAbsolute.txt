@@ -1,0 +1,10 @@
+C:\Users\opriy\Desktop\DotNet\ShopSimpleApplications\ShopSimpleApplications\bin\Debug\ShopSimpleApplications.exe.config
+C:\Users\opriy\Desktop\DotNet\ShopSimpleApplications\ShopSimpleApplications\bin\Debug\ShopSimpleApplications.exe
+C:\Users\opriy\Desktop\DotNet\ShopSimpleApplications\ShopSimpleApplications\bin\Debug\ShopSimpleApplications.pdb
+C:\Users\opriy\Desktop\DotNet\ShopSimpleApplications\ShopSimpleApplications\obj\Debug\ShopSimpleApplications.csprojAssemblyReference.cache
+C:\Users\opriy\Desktop\DotNet\ShopSimpleApplications\ShopSimpleApplications\obj\Debug\ShopSimpleApplications.ShopForm.resources
+C:\Users\opriy\Desktop\DotNet\ShopSimpleApplications\ShopSimpleApplications\obj\Debug\ShopSimpleApplications.Properties.Resources.resources
+C:\Users\opriy\Desktop\DotNet\ShopSimpleApplications\ShopSimpleApplications\obj\Debug\ShopSimpleApplications.csproj.GenerateResource.cache
+C:\Users\opriy\Desktop\DotNet\ShopSimpleApplications\ShopSimpleApplications\obj\Debug\ShopSimpleApplications.csproj.CoreCompileInputs.cache
+C:\Users\opriy\Desktop\DotNet\ShopSimpleApplications\ShopSimpleApplications\obj\Debug\ShopSimpleApplications.exe
+C:\Users\opriy\Desktop\DotNet\ShopSimpleApplications\ShopSimpleApplications\obj\Debug\ShopSimpleApplications.pdb

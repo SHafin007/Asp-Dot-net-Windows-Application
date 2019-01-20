@@ -1,0 +1,10 @@
+C:\Users\opriy\Desktop\DotNet\BankTransactionApp\BankTransactionApp\bin\Debug\BankTransactionApp.exe.config
+C:\Users\opriy\Desktop\DotNet\BankTransactionApp\BankTransactionApp\bin\Debug\BankTransactionApp.exe
+C:\Users\opriy\Desktop\DotNet\BankTransactionApp\BankTransactionApp\bin\Debug\BankTransactionApp.pdb
+C:\Users\opriy\Desktop\DotNet\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.csprojAssemblyReference.cache
+C:\Users\opriy\Desktop\DotNet\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.Form1.resources
+C:\Users\opriy\Desktop\DotNet\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.Properties.Resources.resources
+C:\Users\opriy\Desktop\DotNet\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.csproj.GenerateResource.cache
+C:\Users\opriy\Desktop\DotNet\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.csproj.CoreCompileInputs.cache
+C:\Users\opriy\Desktop\DotNet\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.exe
+C:\Users\opriy\Desktop\DotNet\BankTransactionApp\BankTransactionApp\obj\Debug\BankTransactionApp.pdb

@@ -1,0 +1,10 @@
+C:\Users\opriy\Desktop\DotNet\DepartmentApplication\DepartmentApplication\obj\Debug\DepartmentApplication.csprojAssemblyReference.cache
+C:\Users\opriy\Desktop\DotNet\DepartmentApplication\DepartmentApplication\obj\Debug\DepartmentApplication.Properties.Resources.resources
+C:\Users\opriy\Desktop\DotNet\DepartmentApplication\DepartmentApplication\obj\Debug\DepartmentApplication.csproj.GenerateResource.cache
+C:\Users\opriy\Desktop\DotNet\DepartmentApplication\DepartmentApplication\obj\Debug\DepartmentApplication.csproj.CoreCompileInputs.cache
+C:\Users\opriy\Desktop\DotNet\DepartmentApplication\DepartmentApplication\bin\Debug\DepartmentApplication.exe.config
+C:\Users\opriy\Desktop\DotNet\DepartmentApplication\DepartmentApplication\bin\Debug\DepartmentApplication.exe
+C:\Users\opriy\Desktop\DotNet\DepartmentApplication\DepartmentApplication\bin\Debug\DepartmentApplication.pdb
+C:\Users\opriy\Desktop\DotNet\DepartmentApplication\DepartmentApplication\obj\Debug\DepartmentApplication.exe
+C:\Users\opriy\Desktop\DotNet\DepartmentApplication\DepartmentApplication\obj\Debug\DepartmentApplication.pdb
+C:\Users\opriy\Desktop\DotNet\DepartmentApplication\DepartmentApplication\obj\Debug\DepartmentApplication.StudentEntryForm.resources

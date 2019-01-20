@@ -1,0 +1,10 @@
+C:\Users\opriy\Desktop\DotNet\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+C:\Users\opriy\Desktop\DotNet\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+C:\Users\opriy\Desktop\DotNet\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+C:\Users\opriy\Desktop\DotNet\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\opriy\Desktop\DotNet\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Calculator.resources
+C:\Users\opriy\Desktop\DotNet\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+C:\Users\opriy\Desktop\DotNet\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.cache
+C:\Users\opriy\Desktop\DotNet\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\opriy\Desktop\DotNet\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+C:\Users\opriy\Desktop\DotNet\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
